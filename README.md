@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/abhi15"><img src="https://api.daily.dev/devcards/6bdc13daca2c4c4a8fce6f576fe9988f.png?r=s2a" width="400" alt="Abhishek Gupta's Dev Card"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?abhi15999=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
