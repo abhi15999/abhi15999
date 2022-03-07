@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Abhishek Gupta 👋
 
 <!--
 **abhi15999/abhi15999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/abhi15"><img src="https://api.daily.dev/devcards/6bdc13daca2c4c4a8fce6f576fe9988f.png?r=s2a" width="400" alt="Abhishek Gupta's Dev Card"/></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
